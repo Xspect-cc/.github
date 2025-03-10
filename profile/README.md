@@ -11,26 +11,26 @@
             <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/website-icon-white.svg#gh-dark-mode-only" />
         </a>
         <a href="https://discord.gg/dSbTBxDzaf/#gh-dark-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/discord-clyde-icon-white.svg#gh-dark-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/discord-clyde-icon-white.svg#gh-dark-mode-only" />
         </a>
         <a href="https://github.com/xspect-cc/#gh-dark-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/github-icon-white.svg#gh-dark-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/github-icon-white.svg#gh-dark-mode-only" />
         </a>
         <a href="mailto:support@xspect.cc#gh-dark-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/email-icon-white.svg#gh-dark-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/dark-mode/email-icon-white.svg#gh-dark-mode-only" />
         </a>
         <!-- LIGHT MODE -->
         <a href="https://xspect.cc/#gh-light-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/light-mode/website-icon-black.svg#gh-light-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/light-mode/website-icon-black.svg#gh-light-mode-only" />
         </a>
         <a href="https://discord.gg/dSbTBxDzaf/#gh-light-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/light-mode/discord-clyde-icon-black.svg#gh-light-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/light-mode/discord-clyde-icon-black.svg#gh-light-mode-only" />
         </a>
         <a href="https://github.com/xspect-cc/#gh-light-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/light-mode/github-icon-black.svg#gh-light-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/light-mode/github-icon-black.svg#gh-light-mode-only" />
         </a>
         <a href="mailto:support@xspect.cc#gh-light-mode-only" target="_blank">
-            <img width="24" src="https://github.com/xspect-cc/.github/raw/master/assets/icons/light-mode/email-icon-black.svg#gh-light-mode-only" />
+            <img width="24" src="https://raw.githubusercontent.com/xspect-cc/.github/raw/master/assets/icons/light-mode/email-icon-black.svg#gh-light-mode-only" />
         </a>
     </p>
 </div>
